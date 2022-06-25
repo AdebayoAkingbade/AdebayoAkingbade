@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **nodejs**
 
-- 💬 Ask me about **Express, Front end development**
+- 💬 Ask me about **Express, React, MongoDB, Node and Typescript**
 
 - 📫 How to reach me **adejeremih@gmail.com**
 
