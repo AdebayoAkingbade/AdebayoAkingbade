@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adejeremih@gmail.com**
 
-- ⚡ Fun fact **I love to sing**
+- ⚡ Fun fact **I am musically inclined, Code writer Song writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
